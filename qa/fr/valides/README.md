@@ -1,0 +1,1 @@
+# valides FR : réponses validées par Gstar (publié dans le miroir public)

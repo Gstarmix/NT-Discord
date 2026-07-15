@@ -1,0 +1,1 @@
+# auto FR : fiches distillées automatiquement du Discord officiel (harvest/distill), non relues (confidence low)
